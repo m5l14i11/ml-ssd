@@ -4,7 +4,7 @@
   <img src="figures/fig_teaser.png" width="100%" alt="SSD Overview">
 </p>
 
-This repo is for paper reproduction for improving code generation in three steps: (1) **Sample** solutions from the frozen model at non-unit temperature, (2) **Fine-tune** on those raw, unverified outputs via standard cross-entropy, and (3) **Decode** at a separately tuned temperature. No rewards, no verifier, no teacher, no RL. See the [paper](https://arxiv.org/abs/TBD) for full details.
+This repo is for paper reproduction for improving code generation in three steps: (1) **Sample** solutions from the frozen model at non-unit temperature, (2) **Fine-tune** on those raw, unverified outputs via standard cross-entropy, and (3) **Decode** at a separately tuned temperature. No rewards, no verifier, no teacher, no RL. See the [paper](https://arxiv.org/abs/2510.01329) for full details.
 
 ## 🚀 Getting Started
 
