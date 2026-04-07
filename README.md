@@ -38,7 +38,8 @@ For full details, see the [paper](https://arxiv.org/abs/2604.01193).
 ## 📰 News
 
 - **[2026-04-03]** 🚀 Initial release of repository  
-- **[2026-04-03]** 🤗 Model checkpoints coming soon on Hugging Face  
+- **[2026-04-03]** 🤗 Model checkpoints coming soon on Hugging Face
+- **[2026-04-07]** 🤗 Model checkpoints released
 - *(More updates will be added here)*
 
 ---
@@ -71,7 +72,11 @@ python evaluation/eval.py \
 </details>
 
 ## 🤗 Models
-> Note: Model checkpoints are coming soon. Stay tuned!
+| Model | HuggingFace |
+|:---|:---|
+| SSD-4B-Instruct | [apple/SimpleSD-4B-instruct](https://huggingface.co/apple/SimpleSD-4B-instruct) |
+| SSD-4B-Thinking | [apple/SimpleSD-4B-thinking](https://huggingface.co/apple/SimpleSD-4B-thinking) |
+| SSD-30B-A3B-Instruct | [apple/SimpleSD-30b-a3b-instruct](https://huggingface.co/apple/SimpleSD-30b-a3b-instruct) |
 
 ## 📁 Repository Structure
 
